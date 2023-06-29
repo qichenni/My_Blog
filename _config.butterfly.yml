@@ -44,7 +44,7 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: 
+  img: "https://cdn.jsdelivr.net/gh/qichenxiaoni/Picture-warehouse@main/img/6e0ae68aa0b95c6c5cad5ba6b7987ca1.jpg"
   effect: false
 
 # Disable all banner image
